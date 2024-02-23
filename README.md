@@ -2,4 +2,4 @@
 
 # not4
 
-- Complemento para Jailbroken: Rootless - arm64 & arm64e (15.x-16.6.x). "palera1n | semi-jailbreak (Bootstrap)
+- Add-on for Jailbroken: Rootless - arm64 & arm64e (15.x-16.6.x). "palera1n | semi-jailbreak (Bootstrap)
